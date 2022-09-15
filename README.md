@@ -7,6 +7,8 @@ ECE444 lab 1
 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/46268176/190282363-dbe9d89b-3396-4ebd-8f88-5178fa0acd8e.png">
 
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/46268176/190433993-0f0895b7-0ad5-4704-9e0d-809ca03299be.png">
+
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/46268176/190283439-fb54b00a-8c4e-4460-90c0-fa415cf1aa70.png">
 
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/46268176/190283968-182fabd4-94e8-4f65-9aea-9976159f532f.png">
