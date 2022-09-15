@@ -16,3 +16,8 @@ ECE444 lab 1
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/46268176/190284870-53b5a39c-d9ce-4bda-94b1-7cdc6a554805.png">
 
 https://github.com/Jan729/ECE444-F2022-EP
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46268176/190419304-efb6fd15-9d8e-49b1-8e6d-06be7752b30d.png">
+
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/46268176/190419696-527750b2-8ab5-49c5-8a96-7fc22a95ee06.png">
+
