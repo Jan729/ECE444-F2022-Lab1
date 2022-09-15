@@ -21,3 +21,5 @@ https://github.com/Jan729/ECE444-F2022-EP
 
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/46268176/190419696-527750b2-8ab5-49c5-8a96-7fc22a95ee06.png">
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/46268176/190421967-a254dd4c-ee2b-4d3e-bfbc-5ac8191d312a.png">
+
